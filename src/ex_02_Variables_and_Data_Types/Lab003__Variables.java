@@ -1,7 +1,11 @@
-package ex_02_java_Basic;
+package ex_02_Variables_and_Data_Types;
 
-public class Lab002_9june_java_basic {
+public class Lab003__Variables {
+
     public static void main(String[] args) {
+
+
+
         System.out.println();
     }
 }
