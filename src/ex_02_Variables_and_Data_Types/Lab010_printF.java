@@ -22,7 +22,8 @@ public class Lab010_printF {
                 //%f -> float, double,
                 //%b -> boolean
 
-        int a = 9;
+        int a = 5;
+
 
         System.out.println("Table of 9:");
         System.out.printf("%d x 1 = %d\n", a, a * 1);
