@@ -8,7 +8,8 @@ public class Lab002_Operators_Assignment {
         //age -> identifier operators
         //= -> Assignment opertors
         // 65 -> Literal
-        //RHV o The LH
+
+        //RHV of The LH
 
 
         System.out.println();

@@ -20,7 +20,7 @@ public class lab0012_interview_questions {
 
         // Explain
         //  15 > 9 && 15 < 6
-        //
+        //  true
 
 
 
