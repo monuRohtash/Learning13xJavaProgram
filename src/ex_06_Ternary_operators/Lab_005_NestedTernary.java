@@ -8,7 +8,17 @@ public class Lab_005_NestedTernary {
       //result = condition1 ? expression1 : (expression2 ? expression2 : expression3)
 
 
-        int a = 30, b = 20, c = 25;
+
+
+        int age = 25;
+         String result = (age < 18) ? "Children  -> is not Eligible "  :  (age <= 24) ?  "Adult-> is Eligible" : "Senior";
+        System.out.println(result);
+
+
+
+
+
+
 
     }
 }
