@@ -10,8 +10,8 @@ public class Lab_002_Real_switch_Automation {
         Scanner scanner = new Scanner(System.in);
         String browser = scanner.next();
 
-        browser = browser.toUpperCase();         //switch is a case sentitive
-        browser = browser.toLowerCase();
+                                                   //switch is a case sentitive
+         browser = browser.toLowerCase();
 
         switch (browser){
             case "chrome":
