@@ -1,4 +1,4 @@
-package ex_11_While_loop;
+package ex_12_While_loop;
 
 public class Lab_04_interview {
     public static void main(String[] args) {
