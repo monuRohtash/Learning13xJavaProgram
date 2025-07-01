@@ -1,6 +1,4 @@
-package ex_016_StringBuffer_StringFunctions;
-
-import java.sql.SQLOutput;
+package ex_16_StringBuffer_StringFunctions;
 
 public class Lab_003_StringBuilder_with_Append {
     public static void main(String[] args) {

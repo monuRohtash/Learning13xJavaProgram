@@ -1,6 +1,5 @@
-package ex_016_StringBuffer_StringFunctions;
+package ex_16_StringBuffer_StringFunctions;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Lab_006_interview_Vowels {

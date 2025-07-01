@@ -1,4 +1,4 @@
-package ex_017_Arrays;
+package ex_17_Arrays;
 
 public class Lab_011_Interview_copy_Array {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package ex_016_StringBuffer_StringFunctions;
-
-import javax.management.MBeanAttributeInfo;
+package ex_16_StringBuffer_StringFunctions;
 
 public class Lab_005_SB {
     public static void main(String[] args) {

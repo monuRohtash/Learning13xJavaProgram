@@ -1,6 +1,4 @@
-package ex_017_Arrays;
-
-import java.util.Arrays;
+package ex_17_Arrays;
 
 public class Lab_005_Array_Max_Min_Inteview {
     public static void main(String[] args) {
