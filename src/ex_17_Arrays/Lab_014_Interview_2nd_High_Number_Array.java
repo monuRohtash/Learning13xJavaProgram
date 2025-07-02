@@ -2,7 +2,7 @@ package ex_17_Arrays;
 
 import java.util.Arrays;
 
-public class Lab_011_Interview_2nd_High_Number_Array {
+public class Lab_014_Interview_2nd_High_Number_Array {
     public static void main(String[] args) {
         // find second largest number in an array
 

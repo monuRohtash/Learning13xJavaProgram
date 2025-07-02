@@ -1,6 +1,6 @@
 package ex_17_Arrays;
 
-public class Lab_011_Array_find_element_linear_search {
+public class Lab_012_Array_find_element_linear_search {
 
     public static void main(String[] args) {
 

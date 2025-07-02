@@ -1,6 +1,6 @@
 package ex_17_Arrays;
 
-public class Lab_010_Sum_Of_Array_with_fuunction {
+public class Lab_011_Sum_Of_Array_with_fuunction {
     public static void main(String[] args) {
 
         int[] Num = {2, 44, 55, 77, 11, 44,};
