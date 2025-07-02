@@ -1,4 +1,4 @@
-package ex_018_2D_Array;
+package ex_18_2D_Array;
 
 import java.util.Scanner;
 

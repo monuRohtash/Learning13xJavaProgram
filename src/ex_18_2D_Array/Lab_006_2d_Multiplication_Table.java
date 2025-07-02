@@ -1,6 +1,5 @@
-package ex_018_2D_Array;
+package ex_18_2D_Array;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Lab_006_2d_Multiplication_Table {

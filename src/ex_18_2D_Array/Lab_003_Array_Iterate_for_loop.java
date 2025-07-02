@@ -1,4 +1,4 @@
-package ex_018_2D_Array;
+package ex_18_2D_Array;
 
 public class Lab_003_Array_Iterate_for_loop {
     public static void main(String[] args) {

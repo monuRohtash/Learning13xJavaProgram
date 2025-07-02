@@ -1,6 +1,4 @@
-package ex_018_2D_Array;
-
-import com.sun.tools.javac.Main;
+package ex_18_2D_Array;
 
 public class Lab_002_2D_interview_p0 {
     public static void main(String[] args) {

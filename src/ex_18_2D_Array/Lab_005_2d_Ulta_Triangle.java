@@ -1,6 +1,4 @@
-package ex_018_2D_Array;
-
-import java.util.Scanner;
+package ex_18_2D_Array;
 
 public class Lab_005_2d_Ulta_Triangle {
     public static void main(String[] args) {
