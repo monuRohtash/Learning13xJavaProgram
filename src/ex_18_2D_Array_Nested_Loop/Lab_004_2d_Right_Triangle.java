@@ -1,4 +1,4 @@
-package ex_18_2D_Array;
+package ex_18_2D_Array_Nested_Loop;
 
 import java.util.Scanner;
 

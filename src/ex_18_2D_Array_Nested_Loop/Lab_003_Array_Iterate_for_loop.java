@@ -1,4 +1,4 @@
-package ex_18_2D_Array;
+package ex_18_2D_Array_Nested_Loop;
 
 public class Lab_003_Array_Iterate_for_loop {
     public static void main(String[] args) {
@@ -12,8 +12,12 @@ public class Lab_003_Array_Iterate_for_loop {
          //  4, 5, 6
          //  7, 8, 9
 
-
-        System.out.println(matrix.length);
+        /**   *🔁 What is a Nested Loop in Java?
+         * A nested loop is a loop inside another loop. In Java (and most programming languages), you can place one loop
+         * inside the body of another loop. This is useful when you want to perform repetitive tasks within other repetitive
+         * tasks, like printing patterns, working with 2D arrays, or solving matrix *problems.
+         */
+                System.out.println(matrix.length);
 
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {

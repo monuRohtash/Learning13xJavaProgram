@@ -1,4 +1,4 @@
-package ex_18_2D_Array;
+package ex_18_2D_Array_Nested_Loop;
 
 public class Lab_002_2D_interview_p0 {
     public static void main(String[] args) {
