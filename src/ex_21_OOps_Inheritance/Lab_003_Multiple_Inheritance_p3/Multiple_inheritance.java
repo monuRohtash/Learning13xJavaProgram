@@ -1,4 +1,4 @@
-package Lab_003_Multiple_Inheritance_p3;
+package ex_21_OOps_Inheritance.Lab_003_Multiple_Inheritance_p3;
 
 public class Multiple_inheritance {
 

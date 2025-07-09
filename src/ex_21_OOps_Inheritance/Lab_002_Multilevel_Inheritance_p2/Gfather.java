@@ -1,4 +1,4 @@
-package Lab_002_Multilevel_Inheritance_p2;
+package ex_21_OOps_Inheritance.Lab_002_Multilevel_Inheritance_p2;
 
 public class Gfather {
 

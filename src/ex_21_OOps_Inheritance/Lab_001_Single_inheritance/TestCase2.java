@@ -1,4 +1,4 @@
-package Lab_001_Single_inheritance;
+package ex_21_OOps_Inheritance.Lab_001_Single_inheritance;
 
 public class TestCase2 extends CommonToAll {
 
