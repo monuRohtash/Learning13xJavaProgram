@@ -1,4 +1,4 @@
-package ex_24_Opps_AccessModifer;
+package ex_25_Opps_AccessModifer;
 
 public class Lab_001_AccessModifer_AllClasses {
 
