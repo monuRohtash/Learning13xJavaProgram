@@ -1,4 +1,4 @@
-package ex_26_ABSTRACT_And_INTERFACE;
+    package ex_26_ABSTRACT_And_INTERFACE;
 
 public class LAb_005_CAr_Practical_interface {
     public static void main(String[] args) {
