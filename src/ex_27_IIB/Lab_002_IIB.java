@@ -1,4 +1,4 @@
-package ex_27_Static_Key;
+package ex_27_IIB;
 
 public class Lab_002_IIB {
 
@@ -10,9 +10,6 @@ public class Lab_002_IIB {
 
 //        static → Belongs to class (shared, no object needed)
 //        IIB → Runs before constructor (object-related logic)
-
-
-
 
         car c1 = new car();
         car c2 = new car();
@@ -36,21 +33,22 @@ class car {
         //read json, xml.
         //read a text file or env file
     }
-    // multiple IIB is allowed
+    // multiple IIB is allowed  -> Instance Initialization Block
 
     {
-        System.out.println("IIB Block - Runs before constructor");
+        System.out.println("IIB Block - Runs before constructor- 2");
 
     }
     {
-        System.out.println("IIB Block - Runs before constructor");
+        System.out.println("IIB Block - Runs before constructor- 3");
 
     }
     {
-        System.out.println("IIB Block - Runs before constructor");
+        System.out.println("IIB Block - Runs before constructor- 4");
 
     }
 
+//    Belongs to class (shared, no object needed)
     static {
         System.out.println("static block will bw execute first and one time ");
     }

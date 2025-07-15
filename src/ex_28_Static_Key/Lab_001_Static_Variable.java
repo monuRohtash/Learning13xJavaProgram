@@ -1,4 +1,4 @@
-package ex_27_Static_Key;
+package ex_28_Static_Key;
 
 public class Lab_001_Static_Variable {
     public static void main(String[] args) {
@@ -23,12 +23,16 @@ class static_Var {
     int b = 20;               //this is not accessable because not a ststic variable
     static String name = "Monu";         // static variable
 
-    //Ststic Block is a which is automatically called whenever a class os loaded
+    // Ststic Block is a which is automatically called whenever a class os loaded
+   //  Belongs to class (shared, no object needed)
+
     static {
         // This Is Static Bock
         // This IS Called whenever a class a loaded
         System.out.println("Static Block Runs First! without any object");
     }
+
+
 
     static void show(){               // static method
         System.out.println("This is a static method");

@@ -1,4 +1,4 @@
-package ex_27_Static_Key;
+package ex_28_Static_Key;
 
 public class Lab_001_Static_key {
     public static void main(String[] args) {

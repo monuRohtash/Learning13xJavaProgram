@@ -1,4 +1,4 @@
-package ex_27_Static_Key;
+package ex_27_IIB;
 
 public class LAb_003_IIB_P2 {
 
