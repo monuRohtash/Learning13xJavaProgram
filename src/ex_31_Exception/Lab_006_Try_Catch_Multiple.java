@@ -4,6 +4,9 @@ public class Lab_006_Try_Catch_Multiple {
     public static void main(String[] args) {
         System.out.println("1");
 
+// try , catch , finnaly use in block of code
+
+
         try{
             int a = 10/0;
         }catch (ArithmeticException e){                   // Small basket class
