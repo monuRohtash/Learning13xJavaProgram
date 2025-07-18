@@ -12,7 +12,11 @@ public class Lab_001 {
 //        Not thread-safe (unlike Vector)
 
 
+//      ✅ Summary in 1 Line:
 
+//        List -> is just an interface.
+//        ArrayList -> is fast for searching/access.
+//        LinkedList -> is fast for adding/removing elements, especially at the beginning or middle.
 
 
 

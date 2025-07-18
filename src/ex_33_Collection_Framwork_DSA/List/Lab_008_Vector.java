@@ -39,8 +39,9 @@ public class Lab_008_Vector {
 
         Iterator iteratorn = v.iterator();
         while (iteratorn.hasNext()){
-            System.out.println(iteratorn.hasNext());
+            System.out.println(iteratorn.next());
         }
+
 
 
 
