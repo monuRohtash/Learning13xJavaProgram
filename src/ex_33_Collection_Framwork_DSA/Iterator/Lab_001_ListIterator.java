@@ -21,7 +21,7 @@ public class Lab_001_ListIterator {
 
 
 
-        ListIterator listIterator = List.listIterator();
+        ListIterator<String> listIterator = List.listIterator();
         while (listIterator.hasNext()) {
             System.out.println(listIterator.next());
         }
@@ -34,7 +34,7 @@ public class Lab_001_ListIterator {
 //        Iterator ek aisa object hai jo collections ke elements ko ek-ek karke access karta hai.
 //        Iska use hum tab karte hain jab hume elements ko safely loop aur remove karna ho.
 
-        Iterator iterator = List.iterator();
+        Iterator<String> iterator = List.iterator();
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
